@@ -1,0 +1,1060 @@
+{
+  "搜尋框": [
+    "#keyword",
+    "input[aria-label='搜尋主題、地點和來源']",
+    "input[placeholder=\"搜尋主題、地點和來源\"]",
+    "input[aria-label=\"搜尋主題、地點和來源\"]",
+    "form[role='search'] input[aria-label='搜尋主題、地點和來源']",
+    "[data-regression='header_search_input'] input[type='search']",
+    "input.c-search__input[type=\"search\"]",
+    "form[data-regression='header_search'] input[type='search']",
+    "form[name=\"search\"] input[type=\"search\"]",
+    "input.c-search__input",
+    "div[data-regression=\"header_search_input\"] input[type=\"search\"]",
+    "#ybar-sbq",
+    "#ssb-search-input"
+  ],
+  "商品連結": [
+    "a[href*=\"/goods/GoodsDetail.jsp?i_code=\"]",
+    "a[href*=\"/goods/GoodsDetail.jsp\"]",
+    "[data-regression='index_crazySale'] a[data-gtm-item_id='DEBV7O-A900IOXYG']",
+    "[data-regression='index_crazySale'] a[data-gtm-item_id='DMBL1C-A900IM30C']",
+    "#bestSellers a[href*='DYAY2B-A900J3IFO']",
+    "#bestSellers a[href*='DDADP3-A900I0D5J']",
+    "#window_homepage a[href*='DDAD2O-A900GAXK3']",
+    "#venraas-block a[href*='DHAS9C-A900IYGMM']",
+    "#venraas-block a[href*='DMAH4C-A900IJCH7']",
+    "a[href=\"/prod/DGBJCW-A900I9H2R\"]",
+    "a[href=\"/prod/DGBJCW-A900GOC6M\"]"
+  ],
+  "國際分類": [
+    "[aria-label=\"國際\"]"
+  ],
+  "關於烏克蘭的第一條新聞": [
+    "main article:first-of-type a"
+  ],
+  "國際分頁": [
+    "a[aria-label=\"國際\"]",
+    "a[href*=\"./topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "a[role=\"menuitem\"][aria-label=\"國際\"]",
+    "div[role='menubar'] a[href*='CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ']",
+    "div[role=\"menubar\"] a[aria-label=\"國際\"]"
+  ],
+  "Google新聞首頁連結": [
+    "a#sdgBod",
+    "a[aria-label=\"Google 新聞\"]",
+    "a#sdgBod[aria-label=\"Google 新聞\"]",
+    "[data-regression='header_24hlogo']"
+  ],
+  "Google應用程式按鈕": [
+    "a[aria-label='Google 應用程式']",
+    "a[aria-label=\"Google 應用程式\"]"
+  ],
+  "上海分頁": [
+    "div[role='menubar'] a[aria-label='商業']"
+  ],
+  "世界分頁": [
+    "div[role='menubar'] a[aria-label='國際']"
+  ],
+  "健康分頁": [
+    "div[role='menubar'] a[aria-label='健康']",
+    "a[href*=\"./topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVlJYS0FBUAE\"]",
+    "a[role=\"menuitem\"][aria-label=\"健康\"]",
+    "div[role='menubar'] a[href*='CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVlJYS0FBUAE']",
+    "div[role=\"menubar\"] a[aria-label=\"健康\"]"
+  ],
+  "地方分頁": [
+    "div[role='menubar'] a[aria-label='當地']",
+    "a[href*=\"./topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE\"]",
+    "a[role=\"menuitem\"][aria-label=\"當地\"]",
+    "div[role='menubar'] a[href*='CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE']",
+    "div[role=\"menubar\"] a[aria-label=\"當地\"]"
+  ],
+  "娛樂分頁": [
+    "div[role='menubar'] a[aria-label='娛樂']",
+    "a[href*=\"./topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "a[role=\"menuitem\"][aria-label=\"娛樂\"]",
+    "div[role='menubar'] a[href*='CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ']",
+    "div[role=\"menubar\"] a[aria-label=\"娛樂\"]"
+  ],
+  "導覽列_更多按鈕": [
+    "div[jsname='NHr4Sb'] button[aria-label='更多']",
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:更多...']",
+    "#ybar-nav-more-menu button"
+  ],
+  "展開天氣預報按鈕": [
+    "button[aria-label='展開即可查看天氣預報']",
+    "button[aria-label=\"展開即可查看天氣預報\"]"
+  ],
+  "文章_完整報導連結": [
+    "h3:has(#i11) ~ div.KDoq1 a[aria-label='完整報導']",
+    "a[aria-label^='完整報導 - 高雄興達電廠火警']",
+    "a[href*=\"stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2laM3NXcER4R3dDeUtzeXZldFBTZ0FQAQ\"]",
+    "a[href*=\"stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o3XzdlOER4RXdIWnUyN0JJcUl5Z0FQAQ\"]",
+    "a[aria-label='完整報導']",
+    "a[aria-label=\"完整報導\"][href*=\"stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o3XzdlOER4RXdIWnUyN0JJcUl5Z0FQAQ\"]",
+    "article:has(a[href*=\"CBMiXkFVX3lxTE5FeDNiZkZaY3FKaDY2V0pkVl91NHBaRnBoZzdVRC15cVRrUlMxRVd3bVpld1JjWVA5bmNoM3AyTll4b1RNTG9GYU5LT0p0dEo2dXdtQVF5eTJhMklobFHSAWhBVV95cUxQT05FMXNVa2ZHcUxEaEk4R2RUcFp6NF8xT1RLRFRENzZ4cXVwazZucUJKVTVZQ1hTTVlQc0NudTNueWp3TGhxbGtyWEpiMkFTU2lsZmhZeDkyaURjMDVtTllPbU5sRi1SVw\"]) a[aria-label=\"完整報導\"]",
+    "a[href*=\"CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2o3XzdlOER4RXdIWnUyN0JJcUl5Z0FQAQ\"]"
+  ],
+  "文章_更多選項按鈕": [
+    "button[aria-label^='更多 - 陳智菡接柯文哲回家']",
+    "button[aria-label^='更多 - 高雄興達電廠火警']",
+    "button[aria-label=\"更多 - 陳智菡接柯文哲回家成北檢抗告理由？ 民眾黨：交給律師處理\"]",
+    "button[aria-label=\"更多 - 北檢提5點抗告能成功？趙少康點破關鍵2原因\"]",
+    "button[aria-label=\"更多 - 今天不是高腰褲阿北！柯文哲再穿灰色KP衣、手拎公務包出門| 政治\"]",
+    "button[aria-label=\"更多 - 高雄警局驚爆性騷！巡佐伸鹹豬手摸女警大腿　記過2次調職\"]",
+    "button[aria-label^='更多 - ']",
+    "article:has(a[href*=\"CBMiU0FVX3lxTE0xdFlGM3pMTm45VFdMZmx2eFpEekw0Mk1fQ2dCemJzZ09WemJFekhmaWN6UU42SzNQekdQY1hsNGM3MGwwRWlYNHpJZ3JxQVVUNnBj0gFYQVVfeXFMTm9QYUFEU3VPeFZvM0dLRU1kaUFzMC1PdVpscWlZNmxXcVR0T1JGNXAxQUNhNVFCZjZwWTAyTGRSX0lha1V5MUJJSVh0RU5GSFNyVkVSYk43Yg\"]) button[aria-label^=\"更多\"]",
+    "article:has(a[href*=\"CBMiogJBVV95cUxNX3lqMnIwQ1I3Z2RMdGRzNmIwenRhOFZmbTFTT25ZT25BaGtLLW1nVnZTVm9OWkZ1T2FzbU1EZ2pKa3RGVnVURmEwcW10M2NBZzZVbVdMOVU0ZkVGT0tMSkQyamhmb25VejA4dXgzZGhiZ2xza2VObk5pZUpXakdyMllHaTJLZVBubWhsZk55RzBRSVpxeThGOHZrSFhZSGRwX0hiMjhsQ2tLN1dGTFJFRXhVUDZLUkN4Yk8xMTFmckVCNUdRUWtrNXdXNVhVQlNiUjBxOVBTM3F6aFNWTms4bHhLS05HMms3Tko5UGxXVHBHUTRJSGxOci1hekdsVHZsWkJOdTNXU2RoYkdyemgyM1I0aHZfbmxoTlFvRTRmRFEyZw\"]) button[aria-label^=\"更多\"]",
+    "article:has(a[href*=\"CBMiakFVX3lxTE96Ri1ucThGRDkxdmtpS3I2TzFtWFMzUnBpM1k4UFVWSV9KeFlQVnF3SWpfcVpyM21Ic0dNb3hxN3JPSFVhSnhtUnVMR1dHLWZER1dlcTl5cF82R3BPeTZNanVENzF6OUU0T0HSAW9BVV95cUxNRUtESHdGbDNCNXlBc25XTFp6amZ3enZtbTFoNlczbnl0YjlGRWhSZHllOWRseWZkN0lOR2tDLWg3eVlGWGRwdGYzeWp0VDg2OFA5T1hOTXZQRE5oZURUSUExZVNRVWpTNHg5TEJ6Qms\"]) button[aria-label^=\"更多\"]",
+    "article:has(a[href*=\"CBMiXkFVX3lxTE5FeDNiZkZaY3FKaDY2V0pkVl91NHBaRnBoZzdVRC15cVRrUlMxRVd3bVpld1JjWVA5bmNoM3AyTll4b1RNTG9GYU5LT0p0dEo2dXdtQVF5eTJhMklobFHSAWhBVV95cUxQT05FMXNVa2ZHcUxEaEk4R2RUcFp6NF8xT1RLRFRENzZ4cXVwazZucUJKVTVZQ1hTTVlQc0NudTNueWp3TGhxbGtyWEpiMkFTU2lsZmhZeDkyaURjMDVtTllPbU5sRi1SVw\"]) button[aria-label^=\"更多\"]",
+    "article button[aria-label^=\"更多 - 交保後低調現身\"]"
+  ],
+  "文章標題連結": [
+    "a#i11",
+    "a#c26",
+    "article a[aria-label^='陳智菡接柯文哲回家']",
+    "article a[aria-label^='高雄興達電廠火警']",
+    "a[href*=\"CBMiggNBVV95cUxPekxlaXhkLXZtZ3Z5YlhQR0RaQ2pjYjJKdlVrNmNIMFNnbEN5dlI2TWhHVFRrc0dqX2VGd0t3cUpUTmdEdjFLd24zNkx2Q2hWZ2xZMF9xaHpybExxTWdXWlV3MHBlRGdyUk11aWxwOTNSc3BLVDNXNFJMbmpoQUNKeG1fQTZrYXF3MVltQjZ6RGVmdnQ3V2RtVWRwTkFvX0VocGNvVV9HNjRzVmpEYzBlTEJQVkxxV0pnVmJleEFRMGRZaEViYVNqS2U1VVBveHRoWUVlM1YxM1VLMHJUd2Z5LVBpdmMwS1Q4MERNb2tZOUh5SnZoZzlscEZzNXFPb1dhNkc4VE80R2NjNV9uQWVOaWRIcm51aGk4ZkptMHVGRUlRcEVGNmN3blZyRThNR0l1VF8zM0NGWEhxVzZRdFlZNmZ2cUNMbnpBQ2xncFh1R0JfSE1IN1l4UEhvenJMVHNaN2hvS1JfcTMxMnA4cVhFNWx2Q1VpaE1BY2EzUDlhYnJkQQ\"]",
+    "a[href*=\"CBMirwJBVV95cUxQM1Q1c2dNSS1UTHdxVUZHYnpUWWs3S0Vab3JQOUxjbUxUdXd2V0FJU2V5eV9EOUJ6QnRCeDloN2tJLW9waWpRX1pUMUstMWlycFRXc1Q1MDBoNTJBMkZ5di1pNHgyZzMxbEZPUkhmWG14Tno1bVJUODJ3eDBQZ25hLWFVUC1sOUVtWDJGd21VcjBLbkt4a3lyZExaS3BOR08zTzZuUGpNcXBmT3E3LS1yd0lGelVGdF92dk9vTVNpTWVPRXROaDY5NXV3UzgtbFNGOFlUQ1RBNlJ0MVVwMnlxUmNSeFZYMHRrR29OTFNxTGlOLXhfT0V6Z2ptVm9pX3RoTXRqVzVDcEdlcEt6U2dXRmFSSWstUG04T3NYX0RRY01LckhHS1ROV1puUXRlY2M\"]",
+    "a[href*=\"CBMiWkFVX3lxTE5oMUVlLTZsbEVQRUJQejgzZXBDdHFBMWRkSl9JWHRKM18ybTFRMXFPTGFfVFlrZFFhVXc3bzFOcnJWeEhFS3M5emlOMjBjVUNzVV8wcE1MdWJ0QQ\"]",
+    "a[href*=\"CBMiXkFVX3lxTE5FeDNiZkZaY3FKaDY2V0pkVl91NHBaRnBoZzdVRC15cVRrUlMxRVd3bVpld1JjWVA5bmNoM3AyTll4b1RNTG9GYU5LT0p0dEo2dXdtQVF5eTJhMklobFHSAWhBVV95cUxQT05FMXNVa2ZHcUxEaEk4R2RUcFp6NF8xT1RLRFRENzZ4cXVwazZucUJKVTVZQ1hTTVlQc0NudTNueWp3TGhxbGtyWEpiMkFTU2lsZmhZeDkyaURjMDVtTllPbU5sRi1SVw\"]",
+    "article a[aria-label^=\"交保後低調現身 柯文哲獨赴桃園寺廟\"]",
+    "article a[aria-label^=\"柯文哲交保第3天 柯媽怨不能住新竹老家\"]",
+    "article a[aria-label^=\"「阿北如今猶如困於蛹中，即將破繭而出」\"]",
+    "article a[aria-label^=\"高雄警局驚爆性騷！\"]",
+    "article a[aria-label^=\"交保後低調現身\"]",
+    "a[href*='083500380.html']",
+    "a[href*='081824516.html']",
+    "a[href*='090000798.html']",
+    "a[href*='073849356.html']",
+    "a[href*='085630319.html']",
+    "a[href*='075238428.html']",
+    "a[href*='074358173.html']",
+    "a[href*='160051362.html']",
+    "a[href*='090457916.html']",
+    "a[href*='090516890.html']",
+    "a[href*='075101514.html']",
+    "a[href*='080000900.html']",
+    "a[href*='091037834.html']"
+  ],
+  "為你推薦分頁": [
+    "div[role='menubar'] a[aria-label='為你推薦']",
+    "div[role=\"menubar\"] a[aria-label=\"為你推薦\"]",
+    "a[role=\"menuitem\"][aria-label=\"為你推薦\"]",
+    "div[role='menubar'] a[href*='./foryou']"
+  ],
+  "登入按鈕": [
+    "a[aria-label='登入']",
+    "div[jscontroller='u8Qfbd'] a[aria-label='登入']",
+    "a[aria-label=\"登入\"]",
+    "section[jslog*=\"gemini_briefing_interests\"] a[aria-label=\"登入\"]",
+    "div[jscontroller=\"u8Qfbd\"] a[aria-label=\"登入\"]",
+    "div.jxphGb a[aria-label=\"登入\"]",
+    "div[jslog*=\"customizable-topics\"] a[aria-label=\"登入\"]",
+    "header a[aria-label='登入']",
+    "div.XKK3ne a[aria-label='登入']",
+    "div.jxphGb a[aria-label='登入']",
+    "div[jslog*=\"150721\"] button[jslog*=\"151150\"]",
+    "#gb a[aria-label=\"登入\"]",
+    "[data-regression='header_login'] a",
+    "a[data-regression='userCard_login']",
+    "div[data-regression=\"header_login\"]",
+    "div[data-regression='header_login']",
+    "[data-regression=\"header_login\"]",
+    "#ybarAccountProfile a[data-ylk*='slk:sign-in']",
+    "div[id^='main-3-MyPortfolioWithNews-Proxy'] button"
+  ],
+  "科學與技術分頁": [
+    "div[role='menubar'] a[aria-label='科學與科技']",
+    "a[href*=\"./topics/CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB\"]",
+    "a[role=\"menuitem\"][aria-label=\"科學與科技\"]",
+    "div[role='menubar'] a[href*='CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB']",
+    "div[role=\"menubar\"] a[aria-label=\"科學與科技\"]"
+  ],
+  "管理地方新聞按鈕": [
+    "button[aria-label='管理地方新聞']",
+    "button[aria-label=\"管理地方新聞\"]"
+  ],
+  "自訂主題按鈕": [
+    "button[jsname='Q7N4Oc']",
+    "button[jsname=\"Q7N4Oc\"]",
+    "button[aria-label=\"自訂\"]"
+  ],
+  "設定按鈕": [
+    "button[aria-label='設定']",
+    "button[aria-label=\"設定\"]",
+    "#gb button[aria-label=\"設定\"]"
+  ],
+  "設定選單_設定選項": [
+    "li[role='menuitem'][jsname='ud9t0c']",
+    "li[role=\"menuitem\"][jsname=\"ud9t0c\"]",
+    "ul[aria-label=\"設定\"] li[role=\"menuitem\"][jsname=\"ud9t0c\"]",
+    "[data-regression='header_vipSettings']"
+  ],
+  "設定選單_語言與地區選項": [
+    "li[role='menuitem'][aria-label^='語言與地區']",
+    "li[role=\"menuitem\"][aria-label=\"語言與地区. 中文 (台灣)\"]",
+    "li[role=\"menuitem\"][aria-label^=\"語言與地區\"]",
+    "[role=\"menuitem\"][aria-label^=\"語言與地区\"]"
+  ],
+  "說明按鈕": [
+    "button[aria-label='說明']",
+    "button[aria-label=\"說明\"]",
+    "button[aria-label='說明'][data-tooltip-id='tt-i2']",
+    "#gb button[aria-label=\"說明\"]"
+  ],
+  "說明選單_下載Android應用程式連結": [
+    "li[role='menuitem'][aria-label='下載 Android 應用程式 - 在新分頁中開啟']",
+    "li[role=\"menuitem\"][aria-label=\"下載 Android 應用程式 - 在新分頁中開啟\"]",
+    "li[role=\"menuitem\"][aria-label^=\"下載 Android\"]"
+  ],
+  "說明選單_下載iOS應用程式連結": [
+    "li[role='menuitem'][aria-label='下載 iOS 應用程式 - 在新分頁中開啟']",
+    "li[role=\"menuitem\"][aria-label=\"下載 iOS 應用程式 - 在新分頁中開啟\"]",
+    "li[role=\"menuitem\"][aria-label^=\"下載 iOS\"]"
+  ],
+  "說明選單_提供意見選項": [
+    "li[role='menuitem'][jsname='hSgonf']",
+    "li[role=\"menuitem\"][jsname=\"hSgonf\"]",
+    "[role=\"menuitem\"][jsname=\"hSgonf\"]"
+  ],
+  "說明選單_條款連結": [
+    "li[role='menuitem'][aria-label='條款 - 在新分頁中開啟']",
+    "li[role=\"menuitem\"][aria-label=\"條款 - 在新分頁中開啟\"]",
+    "li[role=\"menuitem\"][aria-label^=\"條款\"]",
+    "[role=\"menuitem\"][aria-label^=\"條款\"]"
+  ],
+  "說明選單_隱私權政策連結": [
+    "li[role='menuitem'][aria-label='隱私權政策 - 在新分頁中開啟']",
+    "li[role=\"menuitem\"][aria-label=\"隱私權政策 - 在新分頁中開啟\"]",
+    "li[role=\"menuitem\"][aria-label^=\"隱私權政策\"]",
+    "[role=\"menuitem\"][aria-label^=\"隱私權政策\"]",
+    "[data-regression='footer_privacy']"
+  ],
+  "說明選單_關於Google連結": [
+    "li[role='menuitem'][aria-label='關於 Google - 在新分頁中開啟']",
+    "li[role=\"menuitem\"][aria-label=\"關於 Google - 在新分頁中開啟\"]",
+    "li[role=\"menuitem\"][aria-label^=\"關於 Google\"]",
+    "[role=\"menuitem\"][aria-label^=\"關於 Google\"]"
+  ],
+  "說明選單_說明連結": [
+    "li[role='menuitem'][aria-label='說明 - 在新分頁中開啟']",
+    "li[role=\"menuitem\"][aria-label=\"說明 - 在新分頁中開啟\"]",
+    "li[role=\"menuitem\"][aria-label^=\"說明\"]",
+    "[role=\"menuitem\"][aria-label^=\"說明\"]",
+    "[data-regression='footer_faqmap']"
+  ],
+  "追蹤中分頁": [
+    "div[role='menubar'] a[aria-label='追蹤中']",
+    "div[role=\"menubar\"] a[aria-label=\"追蹤中\"]",
+    "a[role=\"menuitem\"][aria-label=\"追蹤中\"]",
+    "div[role='menubar'] a[href*='./my/library']"
+  ],
+  "進階搜尋_執行按鈕": [
+    "button[jsname='Skkwue'][aria-label='搜尋']",
+    "div[jsname=\"OnG94e\"] button[aria-label=\"搜尋\"]"
+  ],
+  "進階搜尋_清除按鈕": [
+    "button[jsname='QkwcJf'][aria-label='清除']",
+    "div[jsname=\"OnG94e\"] button[aria-label=\"清除\"]"
+  ],
+  "搜尋_執行按鈕": [
+    "form[role='search'] button[aria-label='搜尋']",
+    "button[aria-label=\"搜尋\"]",
+    "form[role=\"search\"] button[aria-label=\"搜尋\"]",
+    "#gb button[aria-label=\"搜尋\"]",
+    "button[data-regression='header_search_button']",
+    "button[data-regression=\"header_search_button\"]",
+    "#ybar-search"
+  ],
+  "搜尋_清除按鈕": [
+    "button[aria-label='清除搜尋內容']",
+    "button[aria-label=\"清除搜尋內容\"]",
+    "form[role='search'] button[aria-label='清除搜尋內容']",
+    "#ybar-sbq-x",
+    "#ssb-clear-icon"
+  ],
+  "搜尋_進階按鈕": [
+    "button[aria-label='進階搜尋']",
+    "button[aria-label=\"進階搜尋\"]"
+  ],
+  "搜尋_關閉按鈕": [
+    "button[aria-label='關閉搜尋']"
+  ],
+  "首頁分頁": [
+    "div[role='menubar'] a[aria-label='首頁']",
+    "a[aria-label=\"首頁\"][role=\"menuitem\"]",
+    "a[role=\"menuitem\"][aria-label=\"首頁\"]",
+    "header a[aria-label='Google 新聞']",
+    "div[role='menubar'] a[href*='./home']",
+    "div[role=\"menubar\"] a[aria-label=\"首頁\"]"
+  ],
+  "體育分頁": [
+    "div[role='menubar'] a[aria-label='體育']",
+    "a[href*=\"./topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "a[role=\"menuitem\"][aria-label=\"體育\"]",
+    "div[role='menubar'] a[href*='CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ']",
+    "div[role=\"menubar\"] a[aria-label=\"體育\"]"
+  ],
+  "主選單按鈕": [
+    "button[aria-label=\"主選單\"]",
+    "[role=\"button\"][aria-label=\"主選單\"]",
+    "div[role=\"button\"][aria-label=\"主選單\"]"
+  ],
+  "主題標題連結": [
+    "h3 a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h3 a[href*=\"/topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE\"]",
+    "div[jsname=\"b90aOc\"] a[href*=\"/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE\"]",
+    "div[jsname=\"b90aOc\"] a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "div[jsname=\"b90aOc\"] a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "div[jsname=\"b90aOc\"] a[href*=\"/topics/CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB\"]",
+    "div[jsname=\"b90aOc\"] a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "div[jsname=\"b90aOc\"] a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h1.Da1Shd",
+    "h3 > a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h3 > a[href*=\"/topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE\"]",
+    "h3 > a[href*='/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYcG9MVlJYR2dKVVZ5Z0FQAQ']",
+    "h3 > a[href*='/topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE']",
+    "h3 > a[href*=\"topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h3 > a[href*=\"topics/CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE\"]",
+    "a#i11",
+    "a#c26",
+    "h3 > a[href*=\"/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE\"]",
+    "h3 > a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h3 > a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h3 > a[href*=\"/topics/CAAqLAgKIiZDQkFTRmdvSkwyMHZNR1ptZHpWbUVnVjZhQzFVVnhvQ1ZGY29BQVAB\"]",
+    "h3 > a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h3 > a[href*=\"/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "h3 > a[href*=\"/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JYcG9MVlJYS0FBUAE\"]"
+  ],
+  "台灣分頁": [
+    "a[href*=\"./topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE\"]",
+    "a[role=\"menuitem\"][aria-label=\"台灣\"]",
+    "div[role='menubar'] a[href*='CAAqJQgKIh9DQkFTRVFvSUwyMHZNRFptTXpJU0JYcG9MVlJYS0FBUAE']",
+    "div[role=\"menubar\"] a[aria-label=\"台灣\"]"
+  ],
+  "商業分頁": [
+    "a[href*=\"./topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ\"]",
+    "a[role=\"menuitem\"][aria-label=\"商業\"]",
+    "div[role='menubar'] a[href*='CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JYcG9MVlJYR2dKVVZ5Z0FQAQ']",
+    "div[role=\"menubar\"] a[aria-label=\"商業\"]"
+  ],
+  "金融指數_FTSE連結": [
+    "a[href*=\"INDEXFTSE+TW50\"]",
+    "a[href*=\"q=INDEXFTSE+TW50\"]",
+    "nav.indexChartNav a[href*='^FTSE']"
+  ],
+  "金融指數_HSI連結": [
+    "a[href*=\"INDEXHANGSENG+HSI\"]",
+    "a[href*=\"q=INDEXHANGSENG+HSI\"]"
+  ],
+  "金融指數_SSE連結": [
+    "a[href*=\"SHA+000001\"]",
+    "a[href*=\"q=SHA+000001\"]"
+  ],
+  "金融指數_日經連結": [
+    "a[href*=\"INDEXNIKKEI+NI225\"]",
+    "a[href*=\"q=INDEXNIKKEI+NI225\"]"
+  ],
+  "天氣預報_說明連結": [
+    "a[href*=\"support.google.com/websearch/answer/13687874\"]"
+  ],
+  "日期篩選_不限時間選項": [
+    "li[role='option'][data-value='any']"
+  ],
+  "日期篩選_過去一小時選項": [
+    "li[role='option'][data-value='1h']"
+  ],
+  "日期篩選_過去24小時選項": [
+    "li[role='option'][data-value='1d']"
+  ],
+  "日期篩選_過去一週選項": [
+    "li[role='option'][data-value='7d']"
+  ],
+  "日期篩選_過去一年選項": [
+    "li[role='option'][data-value='1y']"
+  ],
+  "日期篩選_觸發器": [
+    "div[role='combobox'][aria-label='日期']"
+  ],
+  "3C分頁": [
+    "[data-regression='header_3c'] a"
+  ],
+  "下載APP按鈕": [
+    "[data-regression='header_downloadapp']",
+    "[data-regression='footer_qrcode'] button",
+    "a[data-regression=\"header_downloadapp\"]",
+    "div[data-regression=\"footer_qrcode\"] button",
+    "div[data-regression='footer_qrcode'] button",
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:App 下載']"
+  ],
+  "主橫幅_上一頁按鈕": [
+    "[data-regression='index_heroBanner'] .swiper-button-prev"
+  ],
+  "主橫幅_下一頁按鈕": [
+    "[data-regression='index_heroBanner'] .swiper-button-next"
+  ],
+  "使用者資訊卡_廣告_註冊送P幣": [
+    ".c-userCard__marketing a"
+  ],
+  "優惠券_查看全部按鈕": [
+    "#b007_tl_a_01_00"
+  ],
+  "優惠券_查看商品_BOSCH": [
+    ".c-couponCard a[href*='C063870'] + .c-couponCard__infoWrapper .c-couponCard__btn a"
+  ],
+  "優惠券_查看商品_靠得住": [
+    ".c-couponCard a[href*='C064131'] + .c-couponCard__infoWrapper .c-couponCard__btn a"
+  ],
+  "品牌日_連結_MSI筆電": [
+    "#b008_lk_a_01_08"
+  ],
+  "品牌日_連結_中華電信": [
+    "#b008_lk_a_01_01"
+  ],
+  "品牌日_連結_石頭掃地機": [
+    "#b008_lk_a_01_07"
+  ],
+  "主題導覽_分頁_3C資訊_筆記電腦": [
+    "div[id='３Ｃ資訊'] [data-gtm-name='筆記電腦']"
+  ],
+  "主題導覽_分頁_居家_本月熱銷": [
+    "div[id='居家'] [data-gtm-name='本月熱銷']"
+  ],
+  "主題導覽_分頁_數位通訊_相機單眼": [
+    "div[id='數位通訊'] [data-gtm-name='相機單眼']"
+  ],
+  "主題導覽_分頁_生活家電_清淨除溼": [
+    "div[id='生活家電'] [data-gtm-name='清淨除溼']"
+  ],
+  "主題推薦_工具列_品牌強檔": [
+    "#b009_bm_a_01_01"
+  ],
+  "主題推薦_工具列_專櫃保養": [
+    "#b009_bm_a_01_08"
+  ],
+  "主題推薦_標籤_雅詩蘭黛": [
+    "#window_homepage a[href*='/store/DDAD70']"
+  ],
+  "折扣橫幅_幸運轉扭蛋": [
+    "#b004_bn_a_01_01"
+  ],
+  "折扣橫幅_天天簽到": [
+    "#b004_bn_a_01_02"
+  ],
+  "折扣橫幅_鈔省星期天": [
+    "#b004_bn_a_01_03"
+  ],
+  "搜尋框_切換搜尋範圍按鈕": [
+    "button[data-regression='header_searchSign']",
+    "button[data-regression=\"header_searchSign\"]"
+  ],
+  "搜尋_推薦關鍵字_筆電": [
+    "[data-regression='header_search_recommend'] a[href*='q=%E7%AD%86%E9%9B%BB']",
+    "a.c-listText__link[href*=\"q=筆電\"]",
+    "div[data-regression='header_search_recommend'] a[href*='q=筆電']",
+    ".c-listText--searchKeyWord a[href*=\"q=筆電\"]",
+    ".c-listText--searchKeyWord a[href*='q=%E7%AD%86%E9%9B%BB']",
+    "a[href=\"https://24h.pchome.com.tw/search/?q=筆電\"]"
+  ],
+  "搜尋_推薦關鍵字_螢幕": [
+    "[data-regression='header_search_recommend'] a[href*='q=%E8%9E%A2%E5%B9%95']",
+    ".c-listText--searchKeyWord a[href*=\"q=螢幕\"]"
+  ],
+  "日用分頁": [
+    "[data-regression='header_daily'] a"
+  ],
+  "書店分頁": [
+    "[data-regression='header_books'] a"
+  ],
+  "查詢_執行按鈕": [
+    "button[data-regression='header_search_button']",
+    "button[data-regression=\"header_search_button\"]"
+  ],
+  "浮動主題導覽_３Ｃ資訊": [
+    ".c-themeToolBar__toolBarList.is-sticky a[data-gtm-name='other4']"
+  ],
+  "浮動主題導覽_數位通訊": [
+    ".c-themeToolBar__toolBarList.is-sticky a[data-gtm-name='other5']"
+  ],
+  "影片播放_TP-Link攝影機": [
+    "#b014_bn_b_01_02"
+  ],
+  "影片播放_樂天Kobo": [
+    "#b014_bn_b_01_01"
+  ],
+  "活動卡片_1": [
+    "[data-regression='index_activityCard'] a[data-gtm-creative_slot='slot1']"
+  ],
+  "活動卡片_10": [
+    "[data-regression='index_activityCard'] a[data-gtm-creative_slot='slot10']"
+  ],
+  "活動卡片_5": [
+    "[data-regression='index_activityCard'] a[data-gtm-creative_slot='slot5']"
+  ],
+  "綜合服務下拉選單_連結_PChome旅遊": [
+    "a[data-gtm-name='travel'][href*='pchometravel.com']",
+    "a[href*='pchometravel.com']"
+  ],
+  "綜合服務下拉選單_連結_Pi錢包": [
+    "a[data-gtm-name='piapp'][href*='piapp.com.tw']",
+    "a[href*='piapp.com.tw']"
+  ],
+  "綜合服務下拉選單_連結_媽咪愛": [
+    "a[data-gtm-name='mamilove'][href*='mamilove.com.tw']",
+    "a[href*='mamilove.com.tw']"
+  ],
+  "綜合服務下拉選單_連結_露天": [
+    "a[data-gtm-name='ruten'][href*='ruten.com.tw']",
+    "a[href='https://www.ruten.com.tw/']"
+  ],
+  "筆電分頁": [
+    "[data-regression='header_nb'] a"
+  ],
+  "通訊分頁": [
+    "[data-regression='header_mobile'] a"
+  ],
+  "週邊分頁": [
+    "[data-regression='header_cp'] a"
+  ],
+  "限時瘋搶_上一頁按鈕": [
+    "[data-regression='index_crazySale'] .swiper-button-prev[data-regression='left']"
+  ],
+  "限時瘋搶_下一頁按鈕": [
+    "[data-regression='index_crazySale'] .swiper-button-next[data-regression='right']"
+  ],
+  "限時瘋搶_分頁_21:00準時開搶": [
+    "[data-regression='index_crazySale'] [data-gtm-name='21:00準時開搶']"
+  ],
+  "限時瘋搶_分頁_現正瘋搶": [
+    "[data-regression='crazySale_now']"
+  ],
+  "限時瘋搶_查看更多按鈕": [
+    "[data-regression='index_crazySale'] .c-prodSaleTitle__btn a"
+  ],
+  "銀行優惠_查看全部按鈕": [
+    "#b005_bt_a_01_00"
+  ],
+  "銀行優惠_連結_Pi拍錢包": [
+    "#b005_bn_b_01_04"
+  ],
+  "銀行優惠_連結_玉山銀行": [
+    "#b005_bn_b_01_03"
+  ],
+  "銀行優惠_連結_星展PChome聯名卡": [
+    "#b005_bn_b_01_01"
+  ],
+  "顧客中心下拉選單_連結_追蹤清單": [
+    "[data-regression='header_wishlist']",
+    "a[data-regression=\"header_wishlist\"]",
+    "a[data-regression='header_wishlist']"
+  ],
+  "顧客中心下拉選單_連結_退貨": [
+    "[data-regression='header_returned']",
+    "a[data-regression='header_returned']",
+    "a[data-regression=\"header_returned\"]"
+  ],
+  "食品分頁": [
+    "[data-regression='header_food'] a"
+  ],
+  "首頁_連結_比比昂": [
+    "[data-regression='header_mercari'] a",
+    "a[data-regression=\"header_mercari\"]",
+    "a[href*='bibian/url']",
+    "[data-regression=\"header_mercari\"]",
+    "[data-regression=\"header_mercari\"] > a"
+  ],
+  "頁尾_連結_Facebook": [
+    "[data-regression='footer_facebook']",
+    "a[data-regression=\"footer_facebook\"]",
+    "a[data-regression='footer_facebook']"
+  ],
+  "頁尾_連結_Instagram": [
+    "[data-regression='footer_instagram']",
+    "a[data-regression=\"footer_instagram\"]",
+    "a[data-regression='footer_instagram']"
+  ],
+  "頁尾_連結_Line": [
+    "[data-regression='footer_line']",
+    "a[data-regression=\"footer_line\"]"
+  ],
+  "頁尾_連結_YouTube": [
+    "[data-regression='footer_youtube']",
+    "a[data-regression=\"footer_youtube\"]"
+  ],
+  "頁尾_連結_合作徵才": [
+    "[data-regression='footer_cooperation']",
+    "a[data-regression=\"footer_cooperation\"]",
+    "a[data-regression=\"footer_teamdoor\"]"
+  ],
+  "頁首_下拉選單_綜合服務": [
+    "[data-regression='generalservice']",
+    "div[data-regression=\"generalservice\"]",
+    "div[data-regression='generalservice']",
+    "[data-regression=\"generalservice\"]"
+  ],
+  "頁首_下拉選單_顧客中心": [
+    "[data-regression='header_vip']",
+    "a[data-regression=\"header_vip\"]",
+    "div[data-regression='header_vip']",
+    "[data-regression=\"header_vip\"] a",
+    "[data-regression=\"header_vip\"]"
+  ],
+  "頁首_連結_我的訂單": [
+    "[data-regression='header_order'] a",
+    "a[data-regression=\"header_order\"]",
+    "div[data-regression='header_order'] > a",
+    "[data-regression=\"header_order\"] a",
+    "[data-regression=\"header_order\"] > a"
+  ],
+  "頁首_連結_最近看過": [
+    "[data-regression='header_viewitem'] a",
+    "a[data-regression=\"header_viewitem\"]",
+    "div[data-regression='header_viewitem'] > a",
+    "[data-regression=\"header_viewitem\"] a",
+    "[data-regression=\"header_viewitem\"] > a"
+  ],
+  "頁首_連結_註冊": [
+    "[data-regression='header_signup'] a",
+    "div[data-regression=\"header_signup\"]",
+    "div[data-regression='header_signup']",
+    "[data-regression=\"header_signup\"]"
+  ],
+  "頁首_連結_購物車": [
+    "[data-regression='header_anchor_cart'] a",
+    "a[data-regression=\"header_anchor_cart\"]",
+    "div[data-regression='header_anchor_cart'] > a",
+    "[data-regression=\"header_anchor_cart\"] a",
+    "a[href*='/BIGCAR/ItemList']"
+  ],
+  "家電分頁": [
+    "[data-regression='header_ce'] a"
+  ],
+  "廣告橫幅_左側_1": [
+    "#b002_bn_a_01_01"
+  ],
+  "廣告橫幅_左側_2": [
+    "#b002_bn_a_01_02"
+  ],
+  "數位分頁": [
+    "[data-regression='header_digi'] a"
+  ],
+  "商品卡_加入購物車": [
+    "li:has(a[href=\"/prod/DGBJCW-A900I9H2R\"]) button[data-regression=\"store_addToCart\"]",
+    "a[href='/prod/DGBJCW-A900I9H2R'] + .c-prodInfoV2__otherFunctions button[data-regression='store_addToCart']",
+    "a[href='/prod/DGBJCW-A900GOC6M'] + .c-prodInfoV2__otherFunctions button[data-regression='store_addToCart']",
+    "a[href=\"/prod/DGBJCW-A900I9H2R\"] ~ .c-prodInfoV2__otherFunctions button[data-regression=\"store_addToCart\"]",
+    "a[href=\"/prod/DEDJ0P-A900GHVHS\"] ~ .c-prodInfoV2__otherFunctions button[data-regression=\"store_addToCart\"]"
+  ],
+  "商品卡_加入追蹤清單": [
+    "li:has(a[href=\"/prod/DGBJCW-A900I9H2R\"]) button[data-regression=\"store_addToWish\"]",
+    "a[href='/prod/DGBJCW-A900I9H2R'] + .c-prodInfoV2__otherFunctions button[data-regression='store_addToWish']",
+    "a[href=\"/prod/DGBJCW-A900I9H2R\"] ~ .c-prodInfoV2__otherFunctions button[data-regression=\"store_addToWish\"]",
+    "a[href=\"/prod/DEDJ0P-A900GHVHS\"] ~ .c-prodInfoV2__otherFunctions button[data-regression=\"store_addToWish\"]",
+    "a[href=\"/prod/DGBJBH-A900H7BQE\"] ~ .c-prodInfoV2__otherFunctions button[data-regression=\"store_addToWish\"]"
+  ],
+  "商品卡_貨到通知": [
+    "a[href=\"/prod/DGBJBH-A900H7BQE\"] .c-label__notice",
+    "a[href='/prod/DGBJBH-A900H7BQE'] span.c-label__notice"
+  ],
+  "相關搜尋_連結_蕉力": [
+    "a[href=\"/search/?q=蕉力全開\"]",
+    "a.c-chip[href*='q=蕉力全開']"
+  ],
+  "排序_人氣": [
+    "button#hot",
+    "#hot"
+  ],
+  "排序_價格": [
+    "button#prc",
+    "#prc"
+  ],
+  "排序_最新": [
+    "button#new",
+    "#new"
+  ],
+  "排序_推薦": [
+    "button#rnk",
+    "#rnk"
+  ],
+  "篩選_主分類_數位": [
+    "label[for=\"105000000000000\"]"
+  ],
+  "篩選_其他條件_適用於": [
+    "div.c-detailCol__btn:has(span:contains(\"適用於\"))"
+  ],
+  "篩選_價格範圍_執行按鈕": [
+    "li.c-boxGrid__item--rangeSearchBtn > button",
+    ".c-boxGrid__list--rangeSearch button",
+    "li.c-boxGrid__item--rangeSearchBtn button"
+  ],
+  "篩選_價格範圍_最低價": [
+    "div[data-regression=\"search_searchLowest\"] input",
+    "div[data-regression='search_searchLowest'] input",
+    "[data-regression=\"search_searchLowest\"] input",
+    "div[data-regression=\"search_searchLowest\"] > div > input"
+  ],
+  "篩選_價格範圍_最高價": [
+    "div[data-regression=\"search_searchHighest\"] input",
+    "div[data-regression='search_searchHighest'] input",
+    "[data-regression=\"search_searchHighest\"] input",
+    "div[data-regression=\"search_searchHighest\"] > div > input"
+  ],
+  "篩選_分類_汽車電子": [
+    "a#DXAA",
+    "#DXAA"
+  ],
+  "篩選_分類_電玩": [
+    "a#DGBJ",
+    "#DGBJ"
+  ],
+  "篩選_分類_露天": [
+    "a#DSBE",
+    "#DSBE"
+  ],
+  "篩選_品牌_Anborteh": [
+    "label[for=\"1_278\"]"
+  ],
+  "篩選_品牌_Nintendo": [
+    "label[for=\"1_5770\"]",
+    "label[for='1_5770']",
+    "input#1_5770"
+  ],
+  "篩選_平台_Switch": [
+    "label[for=\"G146I23000\"]",
+    "label[for='G146I23000']",
+    "input#G146I23000"
+  ],
+  "篩選_類型_單人遊玩": [
+    "label[for=\"G10I18675\"]",
+    "label[for='G10I18675']",
+    "input#G10I18675"
+  ],
+  "篩選_顯示更多按鈕": [
+    "button[data-regression=\"searchFilter_more\"]",
+    "button[data-regression='searchFilter_more']"
+  ],
+  "篩選_配送方式": [
+    "div[data-regression=\"sendBy\"]",
+    "div[data-regression='sendBy']"
+  ],
+  "檢視模式_列表按鈕": [
+    "button[data-regression=\"store_list_button\"]",
+    "button[data-regression='store_list_button']"
+  ],
+  "檢視模式_網格按鈕": [
+    "button[data-regression=\"store_grid_button\"]",
+    "button[data-regression='store_grid_button']"
+  ],
+  "頁尾_連結_常見問題": [
+    "a[data-regression=\"footer_faqmap\"]",
+    "a[data-regression='footer_faqmap']"
+  ],
+  "頁尾_連結_聯絡我們": [
+    "a[data-regression=\"footer_contactinfo\"]"
+  ],
+  "頁首_連結_首頁": [
+    "a[data-regression=\"header_24hlogo\"]",
+    "a[data-regression='header_24hlogo']",
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:首頁']",
+    "#ybar-logo",
+    "#ybar-navigation a[data-ylk*='slk:首頁']"
+  ],
+  "麵包屑_首頁": [
+    "a[title=\"PChome 24h購物\"] > span.c-breadcrumb__text",
+    "ul.c-breadcrumb__list a[title='PChome 24h購物']",
+    ".c-breadcrumb a[title=\"PChome 24h購物\"]"
+  ],
+  "商品卡_標題連結": [
+    "a[href='/prod/DGBJCW-A900I9H2R']",
+    "a[href='/prod/DGBJCW-A900GOC6M']",
+    "a.c-prodInfoV2__link[href=\"/prod/DGBJCW-A900I9H2R\"]",
+    "a.c-prodInfoV2__link[href=\"/prod/DEDJ0P-A900GHVHS\"]",
+    "a.c-prodInfoV2__link[href=\"/prod/DGBJBH-A900H7BQE\"]"
+  ],
+  "篩選_分類_LEGO樂高": [
+    "#DEDJ",
+    "a#DEDJ"
+  ],
+  "篩選_分類_數位周邊": [
+    "label[for='105000000000000']",
+    "label[for=\"105000000000000\"]",
+    "input#105000000000000"
+  ],
+  "篩選_分類_模型公仔": [
+    "#DEEE",
+    "a#DEEE"
+  ],
+  "篩選_分類_車麗屋": [
+    "#DXBQ",
+    "a#DXBQ"
+  ],
+  "麵包屑_全部分類": [
+    "ul.c-breadcrumb__list a[title='全部分類']",
+    "a[data-gtm-name=\"home_PChome 24h購物\"]"
+  ],
+  "綜合服務下拉選單_連結_einsure": [
+    "a[href*='einsure.com.tw']"
+  ],
+  "顧客中心下拉選單_連結_會員設定": [
+    "a[data-regression='header_vipSettings']",
+    "a[data-regression=\"header_vipSettings\"]"
+  ],
+  "頁尾_連結_服務條款": [
+    "a[data-regression='footer_termsofservice']",
+    "a[href*='guce.yahoo.com/terms']"
+  ],
+  "頁尾_連結_隱私權政策": [
+    "a[data-regression='footer_privacy']",
+    "a[data-regression=\"footer_privacy\"]",
+    "a[href*='guce.yahoo.com/privacy-policy']"
+  ],
+  "頁尾_連結_首頁": [
+    "a[data-regression='footer_24hlogo']",
+    "a[data-regression=\"footer_24hlogo\"]"
+  ],
+  "頁首_下拉選單_下載APP": [
+    "div[data-regression='header_downloadapp']",
+    "[data-regression=\"header_downloadapp\"]"
+  ],
+  "搜尋_推薦關鍵字_人體工學椅": [
+    ".c-listText--searchKeyWord a[href*=\"q=人體工學椅\"]"
+  ],
+  "相關搜尋_連結_蕉力全開": [
+    "a[href=\"/search/?q=蕉力全開\"]",
+    "a.c-chip[href=\"/search/?q=蕉力全開\"]"
+  ],
+  "頁尾_連結_榮耀時刻": [
+    "a[data-regression=\"footer_awards\"]"
+  ],
+  "頁尾_下載APP按鈕": [
+    "[data-regression=\"footer_qrcode\"] button",
+    ".l-footer__item--appBtn > button",
+    "div[data-regression=\"footer_qrcode\"] button"
+  ],
+  "頁尾_連結_招商專區": [
+    "a[data-regression=\"footer_cooperation\"]"
+  ],
+  "頁首_連結_比比昂日本購物": [
+    "a[data-regression=\"header_mercari\"]"
+  ],
+  "金融指數_AEX連結": [
+    "nav.indexChartNav a[href*='^AEX']"
+  ],
+  "金融指數_CAC連結": [
+    "nav.indexChartNav a[href*='^FCHI']"
+  ],
+  "金融指數_DAX連結": [
+    "nav.indexChartNav a[href*='^GDAXI']"
+  ],
+  "頁尾_連結_股市說明": [
+    "a[href*='help.yahoo.com/kb/finance-for-desktop']"
+  ],
+  "頁尾_連結_使用條款說明": [
+    "a[href*='help.yahoo.com/kb/stock-tw-web']"
+  ],
+  "頁尾_連結_隱私權儀表板": [
+    "a[href*='guce.yahoo.com/privacy-dashboard']"
+  ],
+  "頁首_連結_拍賣": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:拍賣']"
+  ],
+  "頁首_連結_股市": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:股市']"
+  ],
+  "頁首_連結_氣象": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:氣象']"
+  ],
+  "頁首_連結_電子信箱": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:電子信箱']",
+    "#ybarMailLink"
+  ],
+  "頁首_連結_新聞": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:新聞']",
+    "#ybar-navigation a[data-ylk*='slk:新聞']"
+  ],
+  "頁首_連結_運動": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:運動']"
+  ],
+  "頁首_連結_購物中心": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:購物中心']"
+  ],
+  "頁首_連結_YahooTV": [
+    "nav[id='ybar-topnavigation'] a[data-ylk*='slk:Yahoo TV']"
+  ],
+  "導覽列_連結_股市VIP": [
+    "#ybar-navigation a[data-ylk*='slk:股市VIP']"
+  ],
+  "導覽列_連結_基金": [
+    "#ybar-navigation a[data-ylk*='slk:基金']"
+  ],
+  "導覽列_連結_國際金融": [
+    "#ybar-navigation a[data-ylk*='slk:國際金融']"
+  ],
+  "導覽列_連結_當日行情": [
+    "#ybar-navigation a[data-ylk*='slk:當日行情']"
+  ],
+  "導覽列_連結_投資新手村": [
+    "#ybar-navigation a[data-ylk*='slk:投資新手村']"
+  ],
+  "導覽列_連結_智慧選股": [
+    "#ybar-navigation a[data-ylk*='slk:智慧選股']"
+  ],
+  "導覽列_連結_期權": [
+    "#ybar-navigation a[data-ylk*='slk:期權']"
+  ],
+  "導覽列_連結_銀行服務": [
+    "#ybar-navigation a[data-ylk*='slk:銀行服務']"
+  ],
+  "導覽列_連結_專輯": [
+    "#ybar-navigation a[data-ylk*='slk:專輯']"
+  ],
+  "導覽列_連結_自選股": [
+    "#ybar-navigation a[data-ylk*='slk:自選股']"
+  ],
+  "導覽列_連結_房地產": [
+    "#ybar-navigation a[data-ylk*='slk:房地產']"
+  ],
+  "股市搜尋_升級VIP連結": [
+    "#upgrade-vip"
+  ],
+  "股市搜尋_重新整理按鈕": [
+    "#ssb-refresh-button"
+  ],
+  "股市搜尋_類股列表": [
+    "#ssb-symbol-list"
+  ],
+  "市場行情_分頁_台股": [
+    "div[data-tab-index='0'] > button"
+  ],
+  "市場行情_分頁_美股": [
+    "div[data-tab-index='3'] > button"
+  ],
+  "市場行情_分頁_歐股": [
+    "div[data-tab-index='2'] > button"
+  ],
+  "市場行情_分頁_亞股": [
+    "div[data-tab-index='1'] > button"
+  ],
+  "市場行情_更多指數連結": [
+    "a[href='/world-indices']"
+  ],
+  "今日新聞_查看更多按鈕": [
+    "a[href='/news']"
+  ],
+  "熱門排行_下拉選單": [
+    "#main-5-HotStock-Proxy .dropdown-select > div"
+  ],
+  "熱門排行_查看更多連結": [
+    "a[href='/rank']"
+  ],
+  "捷徑_連結_ETF專區": [
+    "a[href='https://tw.stock.yahoo.com/tw-etf']"
+  ],
+  "捷徑_連結_ETF選股器": [
+    "a[href='https://tw.stock.yahoo.com/tw-etf/search']"
+  ],
+  "捷徑_連結_上市成交量排行": [
+    "a[href='https://tw.stock.yahoo.com/rank/volume?exchange=TAI']"
+  ],
+  "捷徑_連結_上市漲幅排行": [
+    "a[href='https://tw.stock.yahoo.com/rank/change-up?exchange=TAI']"
+  ],
+  "捷徑_連結_上櫃成交量排行": [
+    "a[href='https://tw.stock.yahoo.com/rank/volume?exchange=TWO']"
+  ],
+  "捷徑_連結_外資買超排行": [
+    "a[href='https://tw.stock.yahoo.com/rank/foreign-investor-buy?exchange=TAI&period=day']"
+  ],
+  "捷徑_連結_國際_全球指數": [
+    "a[href='https://tw.stock.yahoo.com/world-indices/']"
+  ],
+  "捷徑_連結_國際_買比特幣": [
+    "a[href='https://tw.hoyabit.com/hoyahooentrance']"
+  ],
+  "捷徑_連結_國際_熱門美股": [
+    "a[href='https://tw.stock.yahoo.com/us-market']"
+  ],
+  "捷徑_連結_盤後法人動向": [
+    "a[href='https://tw.stock.yahoo.com/institutional-trading']"
+  ],
+  "捷徑_連結_熱門主題_幣圈新手村": [
+    "a[href='https://tw.stock.yahoo.com/topic/twcrypto']"
+  ],
+  "捷徑_連結_熱門主題_投資新手村": [
+    "a[href='https://tw.stock.yahoo.com/topic/stock-newbie/']"
+  ],
+  "捷徑_連結_熱門類股報價": [
+    "a[href='https://tw.stock.yahoo.com/class']"
+  ],
+  "捷徑_連結_類股_新掛牌": [
+    "a[href*='category=%E6%96%B0%E6%8E%9B%E7%89%8C']"
+  ],
+  "捷徑_連結_類股_風力發電": [
+    "a[href*='category=%E9%A2%A8%E5%8A%9B%E7%99%BC%E9%9B%BB']"
+  ],
+  "熱門個股_連結_中環": [
+    "a[href='https://tw.stock.yahoo.com/quote/2324.TW']"
+  ],
+  "熱門個股_連結_台玻": [
+    "a[href='https://tw.stock.yahoo.com/quote/1802.TW']"
+  ],
+  "熱門個股_連結_友達": [
+    "a[href='https://tw.stock.yahoo.com/quote/2409.TW']"
+  ],
+  "熱門個股_連結_華邦電": [
+    "a[href='https://tw.stock.yahoo.com/quote/2344.TW']"
+  ],
+  "熱門個股_連結_群創": [
+    "a[href='https://tw.stock.yahoo.com/quote/3481.TW']"
+  ],
+  "台股新聞_查看更多連結": [
+    "a[href='/tw-market']"
+  ],
+  "國際財經新聞_查看更多連結": [
+    "a[href='/intl-markets']"
+  ],
+  "期貨報價_分頁_次二月": [
+    "#aside-5-FutureSimpleTable-Proxy div[data-tab-index='1'] > button"
+  ],
+  "期貨報價_分頁_近月": [
+    "#aside-5-FutureSimpleTable-Proxy div[data-tab-index='0'] > button"
+  ],
+  "智慧選股_分頁_自訂策略": [
+    "#aside-6-ScreenerRightRail-Proxy div[data-tab-index='1'] > button"
+  ],
+  "智慧選股_分頁_精選策略": [
+    "#aside-6-ScreenerRightRail-Proxy div[data-tab-index='0'] > button"
+  ],
+  "智慧選股_策略下拉選單": [
+    "#aside-6-ScreenerRightRail-Proxy .dropdown-select > div"
+  ],
+  "智慧選股_查看更多結果連結": [
+    "a[href^='/screener/d045201a-c1b1']"
+  ],
+  "智慧選股_顯示說明按鈕": [
+    "#aside-6-ScreenerRightRail-Proxy div.D\\(f\\).Ai\\(c\\).Jc\\(sb\\).Cur\\(p\\)"
+  ],
+  "記者專欄_查看更多連結": [
+    "#aside-8-SpecialColumn-Proxy a[href='/reporter']"
+  ],
+  "專家專欄_查看更多連結": [
+    "#aside-9-SpecialColumn-Proxy a[href='/column']"
+  ],
+  "VIP彈窗_上一張按鈕": [
+    "#myLightboxContainer button svg[style*='rotate(0deg)']"
+  ],
+  "VIP彈窗_下一張按鈕": [
+    "#myLightboxContainer button svg[style*='rotate(180deg)']"
+  ],
+  "VIP彈窗_升級按鈕": [
+    "#myLightboxContainer a[href='/subscription']"
+  ],
+  "VIP彈窗_關閉按鈕": [
+    "#myLightboxContainer .modal-header button"
+  ],
+  "股市爆料同學會的網頁連結": [
+    "a[href*=\"cmoney.tw/forum\"]"
+  ]
+}

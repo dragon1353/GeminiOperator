@@ -1,0 +1,5 @@
+Flask
+Flask-SocketIO
+google-generativeai
+selenium
+python-dotenv

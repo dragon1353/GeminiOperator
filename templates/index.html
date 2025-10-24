@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>Gemini Operator</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gemini Operator</h1>
+        <p class="subtitle">一個由 Gemini 驅動的網頁自動化助理</p>
+
+        <div class="section-container">
+            <h2>執行自動化任務</h2>
+            <div id="task-container">
+                <input type="text" id="taskInput" placeholder="請輸入主要任務 (例如：到 PChome 搜尋 iPhone 16)">
+                <button id="submitBtn">開始任務</button>
+            </div>
+        </div>
+
+        <div class="section-container">
+            <h2>擴充 AI 知識庫 (可選)</h2>
+            <div id="knowledge-container">
+                <input type="text" id="knowledgeUrlInput" placeholder="輸入一個網址，讓 AI 學習其頁面結構">
+                <button id="expandBtn">從此網址學習</button>
+            </div>
+        </div>
+
+        <h2>執行日誌：</h2>
+        <div id="log" class="log-container">
+            <p>請輸入任務或提供網址以擴充知識庫...</p>
+        </div>
+    </div>
+    <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

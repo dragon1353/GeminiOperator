@@ -1,0 +1,30 @@
+E:\GeminiOperator
+│
+├─ .env
+├─ app.py
+│
+├─ __pycache__
+│   └─ browser_tools.cpython-312.pyc
+│
+├─ agent
+│   ├─ __init__.py
+│   ├─ agent_core.py
+│   ├─ browser_tools.py
+│   ├─ knowledge_base.json
+│   ├─ knowledge_base.py
+│   │
+│   └─ __pycache__
+│       ├─ __init__.cpython-312.pyc
+│       ├─ agent_core.cpython-312.pyc
+│       ├─ browser_tools.cpython-312.pyc
+│       └─ knowledge_base.cpython-312.pyc
+│
+├─ static
+│   ├─ css
+│   │   └─ style.css
+│   │
+│   └─ js
+│       └─ main.js
+│
+└─ templates
+    └─ index.html

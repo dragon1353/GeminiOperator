@@ -1,0 +1,95 @@
+body {
+    font-family: 'Microsoft JhengHei', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #4A90E2; /* Gemini-like Blue */
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+    color: #777;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+/* 新增區塊容器樣式 */
+.section-container {
+    background-color: #fdfdfd;
+    border: 1px solid #eee;
+    padding: 20px;
+    border-radius: 6px;
+    margin-bottom: 25px;
+}
+
+.section-container h2 {
+    margin-top: 0;
+    color: #333;
+    border-bottom: 2px solid #4A90E2;
+    padding-bottom: 10px;
+}
+
+#task-container, #knowledge-container { /* 讓兩個容器共用樣式 */
+    display: flex;
+    flex-direction: column; 
+    gap: 10px;
+}
+
+#taskInput, #urlInput, #knowledgeUrlInput { /* 應用到所有輸入框 */
+    flex-grow: 1;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#submitBtn, #expandBtn { /* 應用到所有按鈕 */
+    padding: 12px 20px;
+    border: none;
+    background-color: #4A90E2;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 5px; 
+}
+
+#submitBtn:hover, #expandBtn:hover {
+    background-color: #357ABD;
+}
+
+#submitBtn:disabled, #expandBtn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.log-container {
+    height: 400px;
+    overflow-y: auto;
+    border: 1px solid #eee;
+    padding: 15px;
+    background-color: #fafafa;
+    border-radius: 4px;
+    line-height: 1.6;
+}
+
+.log-container p {
+    margin: 5px 0;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed #eee;
+}
