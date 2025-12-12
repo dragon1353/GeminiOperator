@@ -33,7 +33,7 @@ Unlike traditional web scrapers, this system utilizes **LLM-driven reasoning** t
 
 The system follows a modular micro-architecture separating the **Brain (Agent)**, the **Eyes/Hands (Browser Tools)**, and the **Memory (Knowledge Base)**.
 
-```mermaid
+mermaid
 graph TD
     User[User Instruction] -->|WebSocket| Server[Flask Server]
     Server --> Agent[Agent Core (Orchestrator)]
